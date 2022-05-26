@@ -1,5 +1,5 @@
 module.exports = {
-        TOKEN: '', //write your discord bot token
+        TOKEN: 'OTc2NTE5MTE0NjY5NTg4NTUx.GllFV2.gRV2uraGcSFbwf9CfjQsxXFErHDHe0LGew9zUI', //write your discord bot token
         playing: 'Umut Bayraktar ❤️ Music Bot',
         mongoDB: "", //write your mongoDB url.
  opt: {
